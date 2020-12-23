@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-  * [Telegram](tg://resolve?domain=@AffanTheBest)
+  * [Telegram](https://t.me/AffanTheBest)
   * Email : [siddiquiaffan201@gmail.com](mailto:siddiquiaffan201@gmail.com)
