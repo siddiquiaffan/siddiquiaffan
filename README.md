@@ -10,5 +10,5 @@
 - 🌱 I’m currently learning JavaScript
 
 ### 📫 Find me here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-* <a href="https://t.me/AffanTheBest"> <img align="left" width="48px" src="https://github.com/IMZihad21/IMZihad21/blob/master/TG_icon.svg" title="Telegram"/></a><br><br>
+* <a href="https://t.me/AffanTheBest"> <img align="left" width="48px" src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" title="Telegram"/></a><br><br>
 * <a href="mailto:siddiquiaffan201@gmail.com"> <img align="left" width="48px" src="https://img.icons8.com/nolan/64/email.png" title="Email"/> </a>
