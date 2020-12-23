@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning JavaScript
 
 ### 📫 Find me here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  * Telegram | <a href="tg://resolve?domain=@AffanTheBest">
+  * <a href="tg://resolve?domain=@AffanTheBest">
   <img align="left" width="48px" src="https://github.com/IMZihad21/IMZihad21/blob/master/TG_icon.svg"/>
     </a> <br>
     
