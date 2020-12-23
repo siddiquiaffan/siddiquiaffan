@@ -11,6 +11,6 @@
 
 ### 📫 Find me here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   * Telegram | <a href="https://t.me/AffanTheBest">
-  <img align="left"| Telegram" width="48px" src="https://github.com/IMZihad21/IMZihad21/blob/master/TG_icon.svg"/>
+  <img align="left" width="48px" src="https://github.com/IMZihad21/IMZihad21/blob/master/TG_icon.svg"/>
     </a>
   * Email : [siddiquiaffan201@gmail.com]()
