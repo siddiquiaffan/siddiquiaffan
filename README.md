@@ -1,7 +1,7 @@
 ### Hi there 👋 , Affan Here!
 
 
-![AffanTheBest's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AffanTheBest&show_icons=true&theme=dracula&title_color=80CEDA&count_private=true&icon_color=80CEDA&hide=["issues"])
+![AffanTheBest's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AffanTheBest&show_icons=true&theme=dracula&title_color=CCD0DD&count_private=true&icon_color=CCD0DD&hide=["issues"])
 
 <p align="left"> </p>
 
