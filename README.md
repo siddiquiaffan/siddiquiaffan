@@ -10,8 +10,5 @@
 - 🌱 I’m currently learning JavaScript
 
 ### 📫 Find me here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  * <a href="tg://resolve?domain=@AffanTheBest">
-  <img align="left" width="48px" src="https://github.com/IMZihad21/IMZihad21/blob/master/TG_icon.svg"/>
-    </a> <br>
-    
-  * Email : [siddiquiaffan201@gmail.com](mailto:siddiquiaffan201@gmail.com)
+* <a href="tg://resolve?domain=@AffanTheBest"> <img align="left" width="48px" src="https://github.com/IMZihad21/IMZihad21/blob/master/TG_icon.svg"/></a>    
+* Email : [siddiquiaffan201@gmail.com](mailto:siddiquiaffan201@gmail.com)
