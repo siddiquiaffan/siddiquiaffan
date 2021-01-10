@@ -17,5 +17,5 @@
 &nbsp;
 &nbsp;
 <div>
-<img style="margin-top:5px;" src="https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=affanthebest&layout=compact&show_icons=true&theme=dracula&title_color=CDE545&count_private=true&icon_color=CDE545" alt="Most used languages">  
+![Most used languages](https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=affanthebest&layout=compact&show_icons=true&theme=dracula&title_color=CDE545&count_private=true&icon_color=CDE545)
 </div>
