@@ -16,6 +16,5 @@
 </div>&nbsp;
 &nbsp;
 &nbsp;
-<div>
+
 ![Most used languages](https://github-readme-stats.lostgirljourney.vercel.app/api/top-langs/?username=affanthebest&layout=compact&show_icons=true&theme=dracula&title_color=CDE545&count_private=true&icon_color=CDE545)
-</div>
