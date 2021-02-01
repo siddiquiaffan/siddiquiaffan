@@ -9,6 +9,8 @@
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning JavaScript
 
+------------------------------------------
+
 ### 📫 Find me here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <div style="display-flex">
 <a href="https://t.me/AffanTheBest"> <img align="left" width="48px" src="https://github.com/AffanTheBest/AffanTheBest/blob/main/telegram.svg" title="Telegram"/></a>
