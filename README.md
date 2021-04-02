@@ -9,7 +9,10 @@
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning JavaScript
 
-------------------------------------------
+------------------------------------------  
+### Projects  
+1) https://github.com/AffanTheBest/APIs  
+------------------------------------------  
 
 ### 📫 Find me here. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <div style="display-flex">
