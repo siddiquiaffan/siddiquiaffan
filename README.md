@@ -11,7 +11,7 @@
 
 ------------------------------------------  
 ### Projects  
-* https://github.com/AffanTheBest/APIs  
+* https://github.com/siddiquiaffan/APIs  
 * https://github.com/WhatsGram/WhatsGram
 
 ------------------------------------------  
