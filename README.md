@@ -1,5 +1,6 @@
 ### Hi there 👋 , Affan Here!
 
+<a href="https://app.daily.dev/siddiquiaffan"><img src="https://api.daily.dev/devcards/0aaadd3274c643878161d14a9e8313c0.png?r=1um" width="400" alt="Siddiqui Affan's Dev Card"/></a>
 
 ![SiddiquiAffan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddiquiaffan&show_icons=true&theme=dracula&title_color=CDE545&count_private=true&icon_color=CDE545&hide=["issues"])
 
