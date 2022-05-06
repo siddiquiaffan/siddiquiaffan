@@ -5,11 +5,9 @@
 <p align="left"> </p>
 
 
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning JavaScript
-
 ------------------------------------------  
 ### Projects  
+* https://siddiquiaffan.cf
 * https://asloot.cf
 * https://github.com/siddiquiaffan/APIs  
 * https://github.com/WhatsGram/WhatsGram
