@@ -7,8 +7,8 @@
 
 ------------------------------------------  
 ### Projects  
-* https://siddiquiaffan.cf
-* https://asloot.cf
+* [https://siddiquiaffan.cf](https://siddiquiaffan.vercel.app/)
+* https://asloot.in
 * https://github.com/siddiquiaffan/APIs  
 * https://github.com/WhatsGram/WhatsGram
 * https://github.com/siddiquiaffan/price-trakcer
