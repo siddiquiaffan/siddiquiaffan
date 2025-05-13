@@ -8,7 +8,8 @@
 ------------------------------------------  
 ### Projects  
 * https://siddiquiaffan.vercel.app/
-* https://asloot.in
+* https://dealsphere.xyz
+* https://awesome-restaurant.vercel.app
 * https://github.com/siddiquiaffan/APIs  
 * https://github.com/WhatsGram/WhatsGram
 * https://github.com/siddiquiaffan/price-trakcer
